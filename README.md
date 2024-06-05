@@ -1,1 +1,2 @@
-# DeepLearning-Study
+# AI-Study
+안녕하세요 3-1학기에 동아리에서 진행한 AI study입니다. 다양한 데이터에 다양한 모델을 다루었습니다.
